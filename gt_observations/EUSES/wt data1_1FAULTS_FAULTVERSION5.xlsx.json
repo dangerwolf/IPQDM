@@ -1,0 +1,472 @@
+{
+  "file": "wt data1_1FAULTS_FAULTVERSION5.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet2!H44"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet2!AE44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AF44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AC44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AD44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AA44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AB44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!Y44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!Z44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!W44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!X44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN11",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN9",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN8",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN7",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN5",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN4",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN3",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!U44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!V44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!S44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!T44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!Q44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!R44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!P44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!O44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!N44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!M44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!L44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!K44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!J44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!I44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!G44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!F44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!E44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!D44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!C44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!B44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN43",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN38",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN37",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN40",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN39",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN34",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN33",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN36",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN35",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN31",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN32",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN29",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN30",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN27",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN28",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN25",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN26",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN23",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN24",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN21",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN22",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN19",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN20",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN17",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN18",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN15",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN14",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN13",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN42",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN12",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AN41",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AK44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AH44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AG44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AJ44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!AI44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet2!H44",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:36 vs Exp:37.0"
+    }
+  ]
+}

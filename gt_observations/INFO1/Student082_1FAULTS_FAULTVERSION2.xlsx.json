@@ -1,0 +1,28 @@
+{
+  "file": "Student082_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Eingabe QS!G22"
+  ],
+  "observations": [
+    {
+      "cell_id": "Momente!B77",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!M21",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Eingabe QS!G22",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1.43325 vs Exp:1433.25"
+    }
+  ]
+}

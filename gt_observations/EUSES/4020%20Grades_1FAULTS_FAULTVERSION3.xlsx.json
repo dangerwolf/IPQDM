@@ -1,0 +1,358 @@
+{
+  "file": "4020%20Grades_1FAULTS_FAULTVERSION3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "4020 status after midterm#1!L5"
+  ],
+  "observations": [
+    {
+      "cell_id": "4020 status after midterm#1!L11",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L53",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L18",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L15",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L49",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L24",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L52",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L45",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L43",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L14",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L54",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L38",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L48",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L4",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L46",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L37",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L3",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L40",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L2",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L39",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L22",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L34",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L33",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L36",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L35",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L31",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L32",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L29",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L30",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L27",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L28",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L57",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L19",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L25",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L20",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L58",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L21",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L50",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L26",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L13",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L17",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L59",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L9",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L56",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L47",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L51",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L55",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L7",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L12",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L8",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L42",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L41",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L23",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "4020 status after midterm#1!L5",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.12073529411764707 vs Exp:0.8451470588235295"
+    }
+  ]
+}

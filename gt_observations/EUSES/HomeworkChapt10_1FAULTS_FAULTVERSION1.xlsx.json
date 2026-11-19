@@ -1,0 +1,22 @@
+{
+  "file": "HomeworkChapt10_1FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!C18"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!E9",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!E20",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-981.3842166875002 vs Exp:-0.07401668749999146"
+    }
+  ]
+}

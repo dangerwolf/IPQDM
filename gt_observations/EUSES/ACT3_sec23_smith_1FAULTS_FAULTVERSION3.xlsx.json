@@ -1,0 +1,96 @@
+{
+  "file": "ACT3_sec23_smith_1FAULTS_FAULTVERSION3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!E5"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!B10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!D10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!B11",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C11",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!D11",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!E11",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C15",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C18",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C19",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C20",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:2569.75 vs Exp:2565.791666666667"
+    },
+    {
+      "cell_id": "Sheet1!C17",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:585.7916666666666 vs Exp:582.25"
+    },
+    {
+      "cell_id": "Sheet1!F10",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:655.4166666666666 vs Exp:655.0"
+    }
+  ]
+}

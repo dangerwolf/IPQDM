@@ -1,0 +1,18 @@
+{
+  "file": "AFW_fibonacci_3Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!E21",
+    "Sheet1!C13",
+    "Sheet1!C12"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!E21",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:882 vs Exp:2584"
+    }
+  ]
+}

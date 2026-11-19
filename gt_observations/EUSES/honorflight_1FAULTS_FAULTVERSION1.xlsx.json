@@ -1,0 +1,22 @@
+{
+  "file": "honorflight_1FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!C19"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!C14",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C23",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:43050 vs Exp:0.0"
+    }
+  ]
+}

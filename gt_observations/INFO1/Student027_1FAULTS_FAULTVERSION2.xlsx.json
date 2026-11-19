@@ -1,0 +1,75 @@
+{
+  "file": "Student027_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Tabellenblatt!M2",
+    "Tabellenblatt!M5",
+    "Tabellenblatt!M3",
+    "Tabellenblatt!M4"
+  ],
+  "observations": [
+    {
+      "cell_id": "Biegespannung!E13",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabellenblatt!C109",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabellenblatt!M4",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabellenblatt!AB109",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabellenblatt!U108",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabellenblatt!N109",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabellenblatt!L5",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabellenblatt!M2",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-3000 vs Exp:3000.0"
+    },
+    {
+      "cell_id": "Tabellenblatt!U109",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:12000 vs Exp:0.0"
+    },
+    {
+      "cell_id": "Tabellenblatt!M5",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1000 vs Exp:7000.0"
+    }
+  ]
+}

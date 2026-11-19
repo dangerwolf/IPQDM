@@ -1,0 +1,16 @@
+{
+  "file": "NMED-NSR-fee-calculator_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Calculations!C23"
+  ],
+  "observations": [
+    {
+      "cell_id": "Calculations!F5",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:630 vs Exp:0.0"
+    }
+  ]
+}

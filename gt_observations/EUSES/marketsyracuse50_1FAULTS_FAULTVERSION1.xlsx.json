@@ -1,0 +1,34 @@
+{
+  "file": "marketsyracuse50_1FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Syracuse, NY!F24"
+  ],
+  "observations": [
+    {
+      "cell_id": "Syracuse, NY!G36",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Syracuse, NY!E36",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Syracuse, NY!D36",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Syracuse, NY!H36",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1173.464357319817 vs Exp:1149.6884545751125"
+    }
+  ]
+}

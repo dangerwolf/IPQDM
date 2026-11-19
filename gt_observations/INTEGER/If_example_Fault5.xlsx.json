@@ -1,0 +1,34 @@
+{
+  "file": "If_example_Fault5.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Tabelle1!G5"
+  ],
+  "observations": [
+    {
+      "cell_id": "Tabelle1!G4",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!G3",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!G2",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!G5",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:10 vs Exp:18"
+    }
+  ]
+}

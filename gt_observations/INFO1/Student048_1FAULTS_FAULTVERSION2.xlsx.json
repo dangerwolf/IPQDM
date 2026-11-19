@@ -1,0 +1,55 @@
+{
+  "file": "Student048_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Momente!E3"
+  ],
+  "observations": [
+    {
+      "cell_id": "Eingabe QS!G17",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Ergebnisse!G17",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Ergebnisse!G18",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Ergebnisse!G16",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:64697.2810714286 vs Exp:64652.5285714286"
+    },
+    {
+      "cell_id": "Ergebnisse!G19",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:4433.25 vs Exp:4430.0"
+    },
+    {
+      "cell_id": "Momente!E76",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:3441.31031249969 vs Exp:3438.78749999969"
+    },
+    {
+      "cell_id": "Momente!H76",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:8429.8817410711 vs Exp:8427.3589285711"
+    }
+  ]
+}

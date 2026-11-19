@@ -1,0 +1,24 @@
+{
+  "file": "AFW_ranking_2Faults_Fault2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!E12",
+    "Sheet1!C7"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!E12",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:875.0 vs Exp:64"
+    },
+    {
+      "cell_id": "Sheet1!E11",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:78.0 vs Exp:64"
+    }
+  ]
+}

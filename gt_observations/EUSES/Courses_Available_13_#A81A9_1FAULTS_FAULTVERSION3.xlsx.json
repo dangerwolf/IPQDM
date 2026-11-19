@@ -1,0 +1,22 @@
+{
+  "file": "Courses_Available_13_#A81A9_1FAULTS_FAULTVERSION3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Masterlist!A34"
+  ],
+  "observations": [
+    {
+      "cell_id": "Masterlist!A327",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Masterlist!A310",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:238 vs Exp:300.0"
+    }
+  ]
+}

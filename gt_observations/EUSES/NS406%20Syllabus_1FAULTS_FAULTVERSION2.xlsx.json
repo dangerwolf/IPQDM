@@ -1,0 +1,16 @@
+{
+  "file": "NS406%20Syllabus_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!C41"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!C49",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:105 vs Exp:33.0"
+    }
+  ]
+}

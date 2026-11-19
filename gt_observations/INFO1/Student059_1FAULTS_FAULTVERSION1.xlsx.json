@@ -1,0 +1,86 @@
+{
+  "file": "Student059_1FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Ergebnisse!F19"
+  ],
+  "observations": [
+    {
+      "cell_id": "Momente!H11",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!B81",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!C81",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Eingabe QS!I24",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!C7",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!G81",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!E11",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Ergebnisse!F24",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1140068.57142857 vs Exp:190484.114285714"
+    },
+    {
+      "cell_id": "Ergebnisse!F28",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:6.8 vs Exp:6.4"
+    },
+    {
+      "cell_id": "Momente!H80",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:61768.5714285766 vs Exp:8114.17142857211"
+    },
+    {
+      "cell_id": "Ergebnisse!F26",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:707.040313935652 vs Exp:118.133199475506"
+    },
+    {
+      "cell_id": "Momente!E80",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:59340.000000005 vs Exp:5685.60000000048"
+    }
+  ]
+}

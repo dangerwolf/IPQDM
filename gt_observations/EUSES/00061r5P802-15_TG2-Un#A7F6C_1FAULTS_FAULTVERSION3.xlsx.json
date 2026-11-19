@@ -1,0 +1,16 @@
+{
+  "file": "00061r5P802-15_TG2-Un#A7F6C_1FAULTS_FAULTVERSION3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Profs!A35"
+  ],
+  "observations": [
+    {
+      "cell_id": "Profs!A75",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:79 vs Exp:72.0"
+    }
+  ]
+}

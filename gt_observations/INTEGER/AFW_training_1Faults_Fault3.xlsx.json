@@ -1,0 +1,28 @@
+{
+  "file": "AFW_training_1Faults_Fault3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!B15"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!F16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!B15",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:11.0 vs Exp:13"
+    }
+  ]
+}

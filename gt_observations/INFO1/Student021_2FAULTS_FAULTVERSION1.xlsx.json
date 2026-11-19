@@ -1,0 +1,59 @@
+{
+  "file": "Student021_2FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Berechnung der Biegespannung!F10",
+    "Berechnung der Biegespannung!G5"
+  ],
+  "observations": [
+    {
+      "cell_id": "Berechnung des Biegemomentes!N110",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!H110",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung der Biegespannung!C10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!M6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!T110",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!F110",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!D109",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung der Biegespannung!F10",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.605039091968667 vs Exp:11.558935311388312"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "file": "AFW_area_3Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!H20",
+    "Sheet1!H12",
+    "Sheet1!H10"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!G12",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!H3",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!H20",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:838.0 vs Exp:3"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "file": "AFW_weather_1Faults_Fault3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!G16"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!K16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!D16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!F16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G16",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:540.0 vs Exp:600"
+    }
+  ]
+}

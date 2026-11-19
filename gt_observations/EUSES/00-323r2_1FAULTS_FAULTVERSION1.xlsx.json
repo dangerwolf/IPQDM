@@ -1,0 +1,129 @@
+{
+  "file": "00-323r2_1FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!L30"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!K41",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!J41",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C41",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!B41",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!P25",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!P23",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!P22",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-8.079999999999998 vs Exp:-7.779999999999999"
+    },
+    {
+      "cell_id": "Sheet1!Q17",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.04500000000000037 vs Exp:0.34500000000000014"
+    },
+    {
+      "cell_id": "Sheet1!Q16",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-3.505 vs Exp:-3.205"
+    },
+    {
+      "cell_id": "Sheet1!L41",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-0.2550000000000008 vs Exp:0.34500000000000064"
+    },
+    {
+      "cell_id": "Sheet1!R21",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.04500000000000026 vs Exp:0.3450000000000001"
+    },
+    {
+      "cell_id": "Sheet1!P21",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-1.8299999999999998 vs Exp:-1.53"
+    },
+    {
+      "cell_id": "Sheet1!P17",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.04500000000000037 vs Exp:0.34500000000000014"
+    },
+    {
+      "cell_id": "Sheet1!P18",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.04500000000000037 vs Exp:0.34500000000000014"
+    },
+    {
+      "cell_id": "Sheet1!Q18",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.04500000000000037 vs Exp:0.34500000000000014"
+    },
+    {
+      "cell_id": "Sheet1!Q14",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1.22 vs Exp:1.52"
+    },
+    {
+      "cell_id": "Sheet1!R22",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.04500000000000204 vs Exp:0.345000000000001"
+    },
+    {
+      "cell_id": "Sheet1!Q13",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1.2199999999999998 vs Exp:1.5199999999999996"
+    }
+  ]
+}

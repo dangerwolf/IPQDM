@@ -1,0 +1,48 @@
+{
+  "file": "AFW_shopping_bedroom2_2Faults_Fault3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!G19",
+    "Sheet1!F19"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!G4",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!F18",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!I19",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!H19",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G19",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:540.0 vs Exp:555"
+    },
+    {
+      "cell_id": "Sheet1!F19",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:515.0 vs Exp:655"
+    }
+  ]
+}

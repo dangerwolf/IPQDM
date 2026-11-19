@@ -1,0 +1,36 @@
+{
+  "file": "ComputerInstseIVRConfigTool_1FAULTS_FAULTVERSION3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Configuration Editor!F47"
+  ],
+  "observations": [
+    {
+      "cell_id": "Configuration Editor!E109",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Configuration Editor!D85",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.54 vs Exp:0.0"
+    },
+    {
+      "cell_id": "Configuration Editor!F109",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:6 vs Exp:0.0"
+    },
+    {
+      "cell_id": "Configuration Editor!D86",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1.08 vs Exp:0.0"
+    }
+  ]
+}

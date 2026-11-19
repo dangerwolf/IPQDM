@@ -1,0 +1,69 @@
+{
+  "file": "Student037_1FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Berechnung des Biegemomnts!N5",
+    "Berechnung des Biegemomnts!N4",
+    "Berechnung des Biegemomnts!N6",
+    "Berechnung des Biegemomnts!N3"
+  ],
+  "observations": [
+    {
+      "cell_id": "Berechnung des Biegemomnts!N110",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomnts!H110",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomnts!N3",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomnts!T110",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomnts!D110",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomnts!N6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomnts!N5",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:6000 vs Exp:3000.0"
+    },
+    {
+      "cell_id": "Berechnung d. max. Biegespg.!B6",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:3920.4 vs Exp:9939.599999999991"
+    },
+    {
+      "cell_id": "Berechnung d. max. Biegespg.!E6",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:2.4313281816724452 vs Exp:6.164276501007914"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "file": "02rise_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Jan.-Dec. 2002!T121"
+  ],
+  "observations": [
+    {
+      "cell_id": "Companies!D58",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Companies!C58",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Companies!B58",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!BI271",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!BM268",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!BI268",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!BK268",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!BL268",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!C268",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Companies!E58",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!BN268",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:838738 vs Exp:838743.0"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!BI269",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:525567 vs Exp:525562.0"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!BO268",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:525567 vs Exp:525562.0"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!BO269",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-838738 vs Exp:-838743.0"
+    },
+    {
+      "cell_id": "Jan.-Dec. 2002!BI270",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-838738 vs Exp:-838743.0"
+    }
+  ]
+}

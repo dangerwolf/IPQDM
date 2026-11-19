@@ -1,0 +1,22 @@
+{
+  "file": "OWS_inkind_funding_Template_1FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "In-kind contribution template!F16"
+  ],
+  "observations": [
+    {
+      "cell_id": "Cost sharing template!F43",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "In-kind contribution template!F43",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:74102 vs Exp:83600.0"
+    }
+  ]
+}

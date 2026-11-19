@@ -1,0 +1,70 @@
+{
+  "file": "Student010_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Berechnung des Biegemomentes!L5",
+    "Berechnung des Biegemomentes!L6",
+    "Berechnung des Biegemomentes!L3",
+    "Berechnung des Biegemomentes!L4"
+  ],
+  "observations": [
+    {
+      "cell_id": "Berechnung des Biegemomentes!L5",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!S114",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!M114",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!Y114",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!K6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Berechnung der Biegespannung!E8",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:2.431328181672448 vs Exp:6.164276501007914"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!L6",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1000 vs Exp:7000.0"
+    },
+    {
+      "cell_id": "Berechnung des Biegemomentes!L3",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-3000 vs Exp:3000.0"
+    },
+    {
+      "cell_id": "Berechnung der Biegespannung!B8",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:3920.400000000005 vs Exp:9939.599999999991"
+    }
+  ]
+}

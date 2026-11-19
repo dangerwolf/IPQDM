@@ -1,0 +1,34 @@
+{
+  "file": "AFW_computer_shopping_1Faults_Fault2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!E10"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!N10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!D10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!E10",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:570.0 vs Exp:700"
+    }
+  ]
+}

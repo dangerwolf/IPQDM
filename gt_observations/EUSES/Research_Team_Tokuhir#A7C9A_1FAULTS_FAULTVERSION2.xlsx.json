@@ -1,0 +1,22 @@
+{
+  "file": "Research_Team_Tokuhir#A7C9A_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!A17"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!A16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!A39",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:701 vs Exp:34.0"
+    }
+  ]
+}

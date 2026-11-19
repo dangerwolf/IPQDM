@@ -1,0 +1,148 @@
+{
+  "file": "Student044_4FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Biegemoment!L9",
+    "Biegemoment!L8",
+    "Biegemoment!L7",
+    "Biegemoment!L6"
+  ],
+  "observations": [
+    {
+      "cell_id": "Biegemoment!AA46",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!N46",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!U46",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!F46",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!G113",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!M6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!E113",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!D113",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!L6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!F13",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!D112",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Biegemoment!N113",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:4000 vs Exp:0.0"
+    },
+    {
+      "cell_id": "Biegemoment!F113",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0 vs Exp:35999.99999999991"
+    },
+    {
+      "cell_id": "Biegemoment!N76",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:4000 vs Exp:2219.9999999999973"
+    },
+    {
+      "cell_id": "Biegespannung!E9",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:2.431328181672448 vs Exp:6.164276501007914"
+    },
+    {
+      "cell_id": "Biegemoment!L7",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:24000 vs Exp:3000.0"
+    },
+    {
+      "cell_id": "Biegemoment!N77",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:4000 vs Exp:2159.9999999999973"
+    },
+    {
+      "cell_id": "Biegemoment!M9",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:35000 vs Exp:7000.0"
+    },
+    {
+      "cell_id": "Biegemoment!L9",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:120000 vs Exp:15000.0"
+    },
+    {
+      "cell_id": "Biegemoment!U113",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:83999.99999999983 vs Exp:0.0"
+    },
+    {
+      "cell_id": "Biegemoment!L8",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:24000 vs Exp:3000.0"
+    }
+  ]
+}

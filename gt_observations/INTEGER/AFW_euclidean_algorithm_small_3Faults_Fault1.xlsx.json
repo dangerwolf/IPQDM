@@ -1,0 +1,25 @@
+{
+  "file": "AFW_euclidean_algorithm_small_3Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!C8",
+    "Sheet1!C12",
+    "Sheet1!D8"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!C12",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1.0 vs Exp:21"
+    },
+    {
+      "cell_id": "Sheet1!D8",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.0 vs Exp:21"
+    }
+  ]
+}

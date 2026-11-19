@@ -1,0 +1,28 @@
+{
+  "file": "AFW_shopping_bedroom1_1Faults_Fault2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!F19"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!F18",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G19",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!F19",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:515.0 vs Exp:655"
+    }
+  ]
+}

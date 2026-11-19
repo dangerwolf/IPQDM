@@ -1,0 +1,16 @@
+{
+  "file": "prelim_1FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "program!A25"
+  ],
+  "observations": [
+    {
+      "cell_id": "program!A39",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:739 vs Exp:25.0"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "file": "Student083_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Momente!D55",
+    "Momente!D54",
+    "Momente!D37",
+    "Momente!D43",
+    "Momente!D36",
+    "Momente!D77",
+    "Momente!D69",
+    "Momente!D73",
+    "Momente!D57",
+    "Momente!D46",
+    "Momente!D12",
+    "Momente!D59",
+    "Momente!D39",
+    "Momente!D47",
+    "Momente!D53",
+    "Momente!D56",
+    "Momente!D51",
+    "Momente!D7",
+    "Momente!D38",
+    "Momente!D45",
+    "Momente!D63",
+    "Momente!D24",
+    "Momente!D33",
+    "Momente!D68",
+    "Momente!D29",
+    "Momente!D22",
+    "Momente!D66",
+    "Momente!D34",
+    "Momente!D70",
+    "Momente!D27",
+    "Momente!D31",
+    "Momente!D72",
+    "Momente!D25",
+    "Momente!D30",
+    "Momente!D67",
+    "Momente!D32",
+    "Momente!D35",
+    "Momente!D19",
+    "Momente!D11",
+    "Momente!D14",
+    "Momente!D58",
+    "Momente!D52",
+    "Momente!D74",
+    "Momente!D61",
+    "Momente!D40",
+    "Momente!D26",
+    "Momente!D21",
+    "Momente!D15",
+    "Momente!D13",
+    "Momente!D71",
+    "Momente!D44",
+    "Momente!D76",
+    "Momente!D42",
+    "Momente!D10",
+    "Momente!D28",
+    "Momente!D60",
+    "Momente!D16",
+    "Momente!D8",
+    "Momente!D23",
+    "Momente!D9",
+    "Momente!D17",
+    "Momente!D49",
+    "Momente!D75",
+    "Momente!D65",
+    "Momente!D20",
+    "Momente!D18",
+    "Momente!D50",
+    "Momente!D41",
+    "Momente!D64",
+    "Momente!D62",
+    "Momente!D48"
+  ],
+  "observations": [
+    {
+      "cell_id": "Momente!D77",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Ergebnisse!F16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!D3",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!E7",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!D7",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!G7",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!C77",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Eingabe QS!F14",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!F77",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!C3",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Momente!G77",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Ergebnisse!F15",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:60.4314066952435 vs Exp:118.133199475506"
+    },
+    {
+      "cell_id": "Momente!G76",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:2834.68571428596 vs Exp:8114.17142857211"
+    },
+    {
+      "cell_id": "Momente!D76",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:406.11428571432 vs Exp:5685.60000000048"
+    },
+    {
+      "cell_id": "Ergebnisse!F14",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:97442.7428571429 vs Exp:190484.114285714"
+    }
+  ]
+}

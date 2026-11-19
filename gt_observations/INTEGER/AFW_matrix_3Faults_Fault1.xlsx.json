@@ -1,0 +1,18 @@
+{
+  "file": "AFW_matrix_3Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!I3",
+    "Sheet1!I9",
+    "Sheet1!D9"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!I9",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:391.0 vs Exp:100"
+    }
+  ]
+}

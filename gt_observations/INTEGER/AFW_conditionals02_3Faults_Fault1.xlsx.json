@@ -1,0 +1,18 @@
+{
+  "file": "AFW_conditionals02_3Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!H3",
+    "Sheet1!F3",
+    "Sheet1!D4"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!H3",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1 vs Exp:13"
+    }
+  ]
+}

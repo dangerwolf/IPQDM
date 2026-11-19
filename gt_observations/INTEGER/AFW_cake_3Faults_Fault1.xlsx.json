@@ -1,0 +1,37 @@
+{
+  "file": "AFW_cake_3Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!H4",
+    "Sheet1!J18",
+    "Sheet1!J21"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!G4",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!H18",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!J21",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:2535 vs Exp:3085"
+    },
+    {
+      "cell_id": "Sheet1!J4",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:830 vs Exp:340"
+    }
+  ]
+}

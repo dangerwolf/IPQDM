@@ -1,0 +1,16 @@
+{
+  "file": "AFW_matrix_1Faults_Fault2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!I9"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!I9",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.0 vs Exp:100"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "file": "report-financial-part_1FAULTS_FAULTVERSION5.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "3. Budget!H12"
+  ],
+  "observations": [
+    {
+      "cell_id": "3. Budget!H59",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:4 vs Exp:0.0"
+    }
+  ]
+}

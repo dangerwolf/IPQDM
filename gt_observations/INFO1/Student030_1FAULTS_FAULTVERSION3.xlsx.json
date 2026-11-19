@@ -1,0 +1,82 @@
+{
+  "file": "Student030_1FAULTS_FAULTVERSION3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Tabelle1!N5",
+    "Tabelle1!N7",
+    "Tabelle1!N6",
+    "Tabelle1!N4"
+  ],
+  "observations": [
+    {
+      "cell_id": "Tabelle1!E112",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!N6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!P112",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!AF112",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!X112",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!C112",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!F112",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!N7",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:4500 vs Exp:7000.0"
+    },
+    {
+      "cell_id": "Tabelle1!N4",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:500 vs Exp:3000.0"
+    },
+    {
+      "cell_id": "Tabelle3!B11",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:3920.400000000005 vs Exp:9939.599999999991"
+    },
+    {
+      "cell_id": "Tabelle3!E11",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:2.431328181672448 vs Exp:6.164276501007914"
+    }
+  ]
+}

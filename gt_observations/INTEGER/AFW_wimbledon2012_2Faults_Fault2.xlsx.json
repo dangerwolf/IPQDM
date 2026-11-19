@@ -1,0 +1,23 @@
+{
+  "file": "AFW_wimbledon2012_2Faults_Fault2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!W12",
+    "Sheet1!X13"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!X13",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!W12",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:3.0 vs Exp:1"
+    }
+  ]
+}

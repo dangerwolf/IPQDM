@@ -1,0 +1,17 @@
+{
+  "file": "AFW_arithmetics00_2Faults_Fault2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!H3",
+    "Sheet1!F3"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!H3",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-56.0 vs Exp:78"
+    }
+  ]
+}

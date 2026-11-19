@@ -1,0 +1,22 @@
+{
+  "file": "SpringerJournals2003_1FAULTS_FAULTVERSION3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Tabelle1!G21"
+  ],
+  "observations": [
+    {
+      "cell_id": "Tabelle1!F407",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Tabelle1!G407",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:2 vs Exp:0.0"
+    }
+  ]
+}

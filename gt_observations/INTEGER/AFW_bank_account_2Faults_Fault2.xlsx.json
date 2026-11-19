@@ -1,0 +1,97 @@
+{
+  "file": "AFW_bank_account_2Faults_Fault2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!E7",
+    "Sheet1!F11"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!F6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!F4",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!F5",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!F3",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G15",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:4947 vs Exp:2907"
+    },
+    {
+      "cell_id": "Sheet1!F9",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:9 vs Exp:4"
+    },
+    {
+      "cell_id": "Sheet1!F7",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:13 vs Exp:8"
+    },
+    {
+      "cell_id": "Sheet1!F13",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:12 vs Exp:7"
+    },
+    {
+      "cell_id": "Sheet1!F12",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:14 vs Exp:9"
+    },
+    {
+      "cell_id": "Sheet1!F10",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:11 vs Exp:6"
+    },
+    {
+      "cell_id": "Sheet1!F14",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:4 vs Exp:-3"
+    },
+    {
+      "cell_id": "Sheet1!F8",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:7 vs Exp:2"
+    },
+    {
+      "cell_id": "Sheet1!F11",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:19 vs Exp:-6"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "file": "eces490eisensteinassi#A92E2_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!F19"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!C46",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!C13",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G46",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:4.131032136969352 vs Exp:4.261644513183445"
+    }
+  ]
+}

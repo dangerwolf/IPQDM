@@ -1,0 +1,17 @@
+{
+  "file": "AFW_euclidean_algorithm_small_2Faults_Fault3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!D3",
+    "Sheet1!C12"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!C12",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:617.0 vs Exp:21"
+    }
+  ]
+}

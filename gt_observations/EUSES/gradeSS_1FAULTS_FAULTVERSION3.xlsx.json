@@ -1,0 +1,41 @@
+{
+  "file": "gradeSS_1FAULTS_FAULTVERSION3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "335!E7"
+  ],
+  "observations": [
+    {
+      "cell_id": "335!O12",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "335!O10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "335!O7",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "335!O16",
+      "label": "AMBIGUOUS",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:A vs Exp:B"
+    },
+    {
+      "cell_id": "335!O5",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:5 vs Exp:0.85"
+    }
+  ]
+}

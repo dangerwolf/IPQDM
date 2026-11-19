@@ -1,0 +1,16 @@
+{
+  "file": "burnett-clockAsPieChart_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!C4"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!E4",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:0.03472222222222221 vs Exp:0.41666666666666663"
+    }
+  ]
+}

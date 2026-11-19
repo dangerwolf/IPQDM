@@ -1,0 +1,67 @@
+{
+  "file": "Student062_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Auswertung!F4"
+  ],
+  "observations": [
+    {
+      "cell_id": "Querschnittswerte!D19",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Eingabeformular!D23",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Auswertung!G8",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Auswertung!F78",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Auswertung!D78",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Auswertung!I77",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:8115.74048857211 vs Exp:8114.17142857211"
+    },
+    {
+      "cell_id": "Eingabeformular!D19",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:190511.766125714 vs Exp:190484.114285714"
+    },
+    {
+      "cell_id": "Eingabeformular!D21",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:55.1368292597945 vs Exp:118.133199475506"
+    },
+    {
+      "cell_id": "Auswertung!F77",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:5687.16906000048 vs Exp:5685.60000000048"
+    }
+  ]
+}

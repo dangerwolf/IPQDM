@@ -1,0 +1,23 @@
+{
+  "file": "AFW_prom_calculator_2Faults_Fault3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!F7",
+    "Sheet1!F17"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!F16",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!F17",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:383.0 vs Exp:-590"
+    }
+  ]
+}

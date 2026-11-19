@@ -1,0 +1,173 @@
+{
+  "file": "Student076_1FAULTS_FAULTVERSION2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Moment!H65",
+    "Moment!H40",
+    "Moment!H19",
+    "Moment!H42",
+    "Moment!H59",
+    "Moment!H30",
+    "Moment!H14",
+    "Moment!H73",
+    "Moment!H22",
+    "Moment!H58",
+    "Moment!H54",
+    "Moment!H15",
+    "Moment!H26",
+    "Moment!H36",
+    "Moment!H16",
+    "Moment!H68",
+    "Moment!H60",
+    "Moment!H61",
+    "Moment!H11",
+    "Moment!H57",
+    "Moment!H28",
+    "Moment!H45",
+    "Moment!H38",
+    "Moment!H47",
+    "Moment!H24",
+    "Moment!H27",
+    "Moment!H80",
+    "Moment!H31",
+    "Moment!H51",
+    "Moment!H39",
+    "Moment!H52",
+    "Moment!H29",
+    "Moment!H69",
+    "Moment!H12",
+    "Moment!H41",
+    "Moment!H78",
+    "Moment!H56",
+    "Moment!H49",
+    "Moment!H72",
+    "Moment!H53",
+    "Moment!H44",
+    "Moment!H66",
+    "Moment!H10",
+    "Moment!H77",
+    "Moment!H75",
+    "Moment!H25",
+    "Moment!H79",
+    "Moment!H55",
+    "Moment!H35",
+    "Moment!H63",
+    "Moment!H34",
+    "Moment!H43",
+    "Moment!H20",
+    "Moment!H23",
+    "Moment!H32",
+    "Moment!H33",
+    "Moment!H70",
+    "Moment!H67",
+    "Moment!H50",
+    "Moment!H62",
+    "Moment!H13",
+    "Moment!H17",
+    "Moment!H74",
+    "Moment!H71",
+    "Moment!H48",
+    "Moment!H21",
+    "Moment!H18",
+    "Moment!H46",
+    "Moment!H37",
+    "Moment!H76",
+    "Moment!H64"
+  ],
+  "observations": [
+    {
+      "cell_id": "Moment!H10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Moment!D80",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Moment!D10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Moment!C10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Moment!G10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Ergebnisse!G7",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Moment!D5",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Moment!C80",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Moment!I10",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Eingabe QS!G14",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Eingabe QS!G15",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Ergebnisse!G16",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:24.9439332034593 vs Exp:25.9562855319937"
+    },
+    {
+      "cell_id": "Ergebnisse!G15",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:62130.9375 vs Exp:64652.5285714286"
+    },
+    {
+      "cell_id": "Ergebnisse!G17",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:5.25 vs Exp:5.4"
+    },
+    {
+      "cell_id": "Moment!I79",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:3557.93035714254 vs Exp:8427.3589285711"
+    }
+  ]
+}

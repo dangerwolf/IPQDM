@@ -1,0 +1,16 @@
+{
+  "file": "Mortgage%20HW_1FAULTS_FAULTVERSION4.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "HW!B47"
+  ],
+  "observations": [
+    {
+      "cell_id": "HW!D47",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-581.808097860252 vs Exp:1.127773430198431E-10"
+    }
+  ]
+}

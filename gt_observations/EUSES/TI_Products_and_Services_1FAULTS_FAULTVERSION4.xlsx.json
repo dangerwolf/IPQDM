@@ -1,0 +1,16 @@
+{
+  "file": "TI_Products_and_Services_1FAULTS_FAULTVERSION4.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!B18"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!B248",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:211 vs Exp:225.0"
+    }
+  ]
+}

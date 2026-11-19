@@ -1,0 +1,34 @@
+{
+  "file": "Portal%20Evaluation_1FAULTS_FAULTVERSION5.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Portals comparison!I21"
+  ],
+  "observations": [
+    {
+      "cell_id": "Portals comparison!R44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Portals comparison!L44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Portals comparison!O44",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Portals comparison!I44",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:256 vs Exp:143.0"
+    }
+  ]
+}

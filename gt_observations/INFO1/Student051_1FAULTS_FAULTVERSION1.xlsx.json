@@ -1,0 +1,43 @@
+{
+  "file": "Student051_1FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Eingabe QS!G17"
+  ],
+  "observations": [
+    {
+      "cell_id": "Momente!E78",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Ergebnisse!G16",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:18018594.906517 vs Exp:118.133199475506"
+    },
+    {
+      "cell_id": "Momente!H77",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:161285.477428585 vs Exp:8114.17142857211"
+    },
+    {
+      "cell_id": "Ergebnisse!G17",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:6.8 vs Exp:6.4"
+    },
+    {
+      "cell_id": "Momente!E4",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:115113.7 vs Exp:4120.0"
+    }
+  ]
+}

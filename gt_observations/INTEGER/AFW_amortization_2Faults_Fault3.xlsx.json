@@ -1,0 +1,23 @@
+{
+  "file": "AFW_amortization_2Faults_Fault3.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!D11",
+    "Sheet1!F5"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!I11",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!D11",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:1.0 vs Exp:3"
+    }
+  ]
+}

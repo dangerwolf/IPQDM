@@ -1,0 +1,30 @@
+{
+  "file": "AFW_fibonacci_2Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!D7",
+    "Sheet1!E21"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!E6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!E21",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:829.0 vs Exp:2584"
+    },
+    {
+      "cell_id": "Sheet1!D21",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:377.0 vs Exp:1597"
+    }
+  ]
+}

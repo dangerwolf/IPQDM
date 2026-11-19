@@ -1,0 +1,22 @@
+{
+  "file": "AFW_cake_1Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!J21"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!J4",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!J21",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:2745.0 vs Exp:3085"
+    }
+  ]
+}

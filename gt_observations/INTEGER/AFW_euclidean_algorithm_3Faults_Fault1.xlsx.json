@@ -1,0 +1,18 @@
+{
+  "file": "AFW_euclidean_algorithm_3Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!C15",
+    "Sheet1!D5",
+    "Sheet1!D9"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!C15",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:439.0 vs Exp:315"
+    }
+  ]
+}

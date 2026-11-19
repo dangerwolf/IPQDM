@@ -1,0 +1,22 @@
+{
+  "file": "AFW_parabola_1Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!L15"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!K15",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!L15",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:16.0 vs Exp:25"
+    }
+  ]
+}

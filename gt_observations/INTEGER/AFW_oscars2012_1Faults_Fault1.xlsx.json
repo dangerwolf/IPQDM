@@ -1,0 +1,22 @@
+{
+  "file": "AFW_oscars2012_1Faults_Fault1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!G15"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!H15",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G15",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:17.387543252595155 vs Exp:1005"
+    }
+  ]
+}

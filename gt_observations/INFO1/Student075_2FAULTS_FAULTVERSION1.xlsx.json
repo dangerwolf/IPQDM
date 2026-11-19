@@ -1,0 +1,51 @@
+{
+  "file": "Student075_2FAULTS_FAULTVERSION1.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Eingabe QS!F17",
+    "Momente!F11"
+  ],
+  "observations": [
+    {
+      "cell_id": "Momente!F15",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Ergebnisse!F17",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:10293.1633941501 vs Exp:118.133199475506"
+    },
+    {
+      "cell_id": "Ergebnisse!F7",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:3112.1137 vs Exp:4120.0"
+    },
+    {
+      "cell_id": "Momente!F84",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:4294.71690600036 vs Exp:5685.60000000048"
+    },
+    {
+      "cell_id": "Momente!I84",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:6723.288334572 vs Exp:8114.17142857211"
+    },
+    {
+      "cell_id": "Ergebnisse!F18",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:6.4 vs Exp:1121.137"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "file": "AFW_shares_2Faults_Fault2.xlsx",
+  "status": "Success",
+  "ground_truth": [
+    "Sheet1!G3",
+    "Sheet1!D8"
+  ],
+  "observations": [
+    {
+      "cell_id": "Sheet1!G4",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G6",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G7",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G5",
+      "label": "CORRECT",
+      "confidence": 1.0,
+      "source": "ground_truth"
+    },
+    {
+      "cell_id": "Sheet1!G9",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:10.0 vs Exp:40"
+    },
+    {
+      "cell_id": "Sheet1!G3",
+      "label": "TOO_HIGH",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:18.0 vs Exp:15"
+    },
+    {
+      "cell_id": "Sheet1!G13",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:32.0 vs Exp:80"
+    },
+    {
+      "cell_id": "Sheet1!G12",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:35.0 vs Exp:77"
+    },
+    {
+      "cell_id": "Sheet1!G10",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:24.0 vs Exp:60"
+    },
+    {
+      "cell_id": "Sheet1!G16",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-23.0 vs Exp:13"
+    },
+    {
+      "cell_id": "Sheet1!G8",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:-5.0 vs Exp:25"
+    },
+    {
+      "cell_id": "Sheet1!G11",
+      "label": "TOO_LOW",
+      "confidence": 1.0,
+      "source": "ground_truth",
+      "debug_info": "Act:24.0 vs Exp:60"
+    }
+  ]
+}
